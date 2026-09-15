@@ -1,0 +1,14 @@
+C:\Users\ACER\Documents\Lab04-Kadralieva\bin\Debug\net10.0\Lab04-Kadralieva.exe
+C:\Users\ACER\Documents\Lab04-Kadralieva\bin\Debug\net10.0\Lab04-Kadralieva.deps.json
+C:\Users\ACER\Documents\Lab04-Kadralieva\bin\Debug\net10.0\Lab04-Kadralieva.runtimeconfig.json
+C:\Users\ACER\Documents\Lab04-Kadralieva\bin\Debug\net10.0\Lab04-Kadralieva.dll
+C:\Users\ACER\Documents\Lab04-Kadralieva\bin\Debug\net10.0\Lab04-Kadralieva.pdb
+C:\Users\ACER\Documents\Lab04-Kadralieva\obj\Debug\net10.0\Lab04-Kadralieva.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Documents\Lab04-Kadralieva\obj\Debug\net10.0\Lab04-Kadralieva.AssemblyInfoInputs.cache
+C:\Users\ACER\Documents\Lab04-Kadralieva\obj\Debug\net10.0\Lab04-Kadralieva.AssemblyInfo.cs
+C:\Users\ACER\Documents\Lab04-Kadralieva\obj\Debug\net10.0\Lab04-Kadralieva.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Documents\Lab04-Kadralieva\obj\Debug\net10.0\Lab04-Kadralieva.dll
+C:\Users\ACER\Documents\Lab04-Kadralieva\obj\Debug\net10.0\refint\Lab04-Kadralieva.dll
+C:\Users\ACER\Documents\Lab04-Kadralieva\obj\Debug\net10.0\Lab04-Kadralieva.pdb
+C:\Users\ACER\Documents\Lab04-Kadralieva\obj\Debug\net10.0\Lab04-Kadralieva.genruntimeconfig.cache
+C:\Users\ACER\Documents\Lab04-Kadralieva\obj\Debug\net10.0\ref\Lab04-Kadralieva.dll
